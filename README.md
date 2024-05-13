@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/shubhanshu-kaintura-499876283/">LinkedIn</a> - 
   <a href="https://leetcode.com/u/shubhanshukaintura/">Leetcode</a> -
   <a href="https://www.geeksforgeeks.org/user/shubhanshu_kaintura/">GeeksForGeeks</a> -
-  <a href="mailto:shubhanshukaintura2@gmail.com">Contact me</a></p>
+  <a href="mailto:shubhanshukaintura2@gmail.com">shubhanshukaintura2@gmail.com</a></p>
 
 <img src="Assets/Robot Tutorial _ Interactive Events - Copy@7-1536x730 (1).png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
@@ -15,7 +15,7 @@
 👨🏻‍💻 **About Me**
 ✨ Full Stack Web Developer | UI/UX Designer <br>
 ⚡ My Recent Web Project ✨ [Website](https://mahaavirkantura.com/)<br>
-📫 How to reach me: [Mail](mailto:shubhanshukaintura2@gmail.com) or visit [LinkedIn](https://www.linkedin.com/in/shubhanshu-kaintura-499876283/)<br>
+📫 How to reach me: [shubhanshukaintura2@gmail.com](mailto:shubhanshukaintura2@gmail.com) or visit [LinkedIn](https://www.linkedin.com/in/shubhanshu-kaintura-499876283/)<br>
 💬 Ask me about Web Designing & Development<br><br>
 
 <!--- Adding Tech Stack open Section -->
