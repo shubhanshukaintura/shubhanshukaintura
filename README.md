@@ -9,9 +9,10 @@
   <a href="https://www.geeksforgeeks.org/user/shubhanshu_kaintura/">GeeksForGeeks</a> -
   <a href="mailto:shubhanshukaintura2@gmail.com">Contact me</a></p>
 
+<img src="Assets/Robot Tutorial _ Interactive Events - Copy@7-1536x730 (1).png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-[<spline-viewer url="https://prod.spline.design/uA7lADRrJdmuFPcM/scene.splinecode"></spline-viewer>](https://my.spline.design/robottutorialinteractiveeventscopy-2199e36ce1b9774aa6275acd9db2091a/)
+👨🏻‍💻 **About Me**
 ✨ Full Stack Web Developer | UI/UX Designer <br>
 ⚡ My Recent Web Project ✨ [Website](https://mahaavirkantura.com/)<br>
 📫 How to reach me: [Mail](mailto:shubhanshukaintura2@gmail.com) or visit [LinkedIn](https://www.linkedin.com/in/shubhanshu-kaintura-499876283/)<br>
@@ -47,15 +48,23 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 ![Shubhanshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhanshukaintura&theme=github_dark)<br>
 ![Shubhanshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhanshukaintura&theme=github_dark)
 ![Shubhanshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhanshukaintura&theme=github_dark&utcOffset=8)<br>
+![Shubhanshu's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhanshukaintura&theme=gotham&hide_border=false)<br/>
      
 
 <!--- 3rd Section on Recent Projects -->
 <b>📚Recent Project/Activity</b><br>
 ✨ [Web Projects - React, Javscript](https://github.com/shubhanshukaintura/my-web-projects)<br>
 
+![Shubhanshu's 🔝Top Contributed Repo ](https://github-contributor-stats.vercel.app/api?username=shubhanshukaintura&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 <!--- Footer Starts - Adding the Social Media Status count-->
 
- <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://www.linkedin.com/in/shubhanshu-kaintura-499876283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+ <p align="left">  
+   <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=shuhanshukaintura&label=Profile%20Views&color=4&icon=0&pretty=true" />
+  </a>
+   <a href="https://www.linkedin.com/in/shubhanshu-kaintura-499876283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
 <div align="center">
 
