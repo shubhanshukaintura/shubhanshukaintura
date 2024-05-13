@@ -1,4 +1,5 @@
 <!--- Body Begins -->
+![MasterHead](Assets/1689321538097.png)
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shubhanshu-kaintura-499876283/">Shubhanshu</a> </h1>
 
 <!--- Adding Header Elements -->
@@ -10,7 +11,7 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-<spline-viewer url="https://prod.spline.design/uA7lADRrJdmuFPcM/scene.splinecode"></spline-viewer>
+[<spline-viewer url="https://prod.spline.design/uA7lADRrJdmuFPcM/scene.splinecode"></spline-viewer>](https://my.spline.design/robottutorialinteractiveeventscopy-2199e36ce1b9774aa6275acd9db2091a/)
 ✨ Full Stack Web Developer | UI/UX Designer <br>
 ⚡ My Recent Web Project ✨ [Website](https://mahaavirkantura.com/)<br>
 📫 How to reach me: [Mail](mailto:shubhanshukaintura2@gmail.com) or visit [LinkedIn](https://www.linkedin.com/in/shubhanshu-kaintura-499876283/)<br>
